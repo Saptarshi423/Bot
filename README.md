@@ -13,7 +13,7 @@ Enter /word followed by the word whose meaning you want to get.
 ## Lessons Learned
 
 - How to communicate with an API and fetch data.
-- Parse incoming data from request bodies such as form data.
+- Parse incoming data from request or response bodies.
 
 ## Application Link
 https://t.me/SK98_TEST_BOT
