@@ -14,3 +14,6 @@ Enter /word followed by the word whose meaning you want to get.
 
 - How to communicate with an API and fetch data.
 - Parse incoming data from request bodies such as form data.
+
+## Application Link
+https://t.me/SK98_TEST_BOT
